@@ -26,7 +26,7 @@ url: "https://dentsu-media-us-data-science.github.io/" # the base hostname & pro
 
 
 # Build settings
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
