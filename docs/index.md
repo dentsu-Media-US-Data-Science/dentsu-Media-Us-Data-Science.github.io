@@ -18,7 +18,3 @@ Our mission is to maximize the power of data to benefit all dentsu Media US stak
 ---
 
 ## Getting started
-
-## About the team
-
-Reach is &copy;{{ "now" | date: "%Y" }} by [dentsu Media US Data Science Team](https://github.com/dentsu-Media-US-Data-Science).

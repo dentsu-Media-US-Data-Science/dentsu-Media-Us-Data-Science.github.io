@@ -21,7 +21,7 @@
 title: Reach
 email: neal.xie@dentsu.com
 description: A organization website for dentsu Media US Data Science team.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dentsu-media-us-data-science.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -45,6 +45,14 @@ aux_links_new_tab: false
 heading_anchors: true
 
 color_scheme: light
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2022 dentsu Media US Data Science Team."
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
