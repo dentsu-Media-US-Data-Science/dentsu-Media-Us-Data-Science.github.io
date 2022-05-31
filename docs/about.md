@@ -1,19 +1,23 @@
 ---
 layout: page
 title: About
-nav_order: 3
+nav_order: 4
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Reach: About
+{: .no_toc }
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Reach can be a go-to place for anyone on Data Science team to get the answers of *how*, *when*, and *why* of the product. 
+{: .fs-4 .fw-300 }
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+---
 
+## How can Reach help you?
 
-[jekyll-organization]: https://github.com/jekyll
+> - Helps in onboarding new members of the team quickly and efficiently.
+{: .fs-3 }
+> - Unifies team to use one platform to document everything.
+{: .fs-3 }
+> - Helps to eliminate verbal decision making, provides a good place to keep records of the decision logs that can be referred to in the future for reasoning.
+{: .fs-3 }

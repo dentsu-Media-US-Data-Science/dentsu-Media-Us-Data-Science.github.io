@@ -15,3 +15,4 @@ A Data Scientist primary role is to apply machine learning, statistical methods 
 > `A data scientist is someone who is better at statistics than any engineer and better at engineering than any statistician.`
 
 You can find an overview of the core tools used by our data scientists below.
+{: .fs-4 .fw-300 }

@@ -3,14 +3,17 @@ layout: default
 title: GitHub
 parent: Toolkit
 nav_order: 1
+permalink: /toolkit/github/
 ---
 
 # Reach: GitHub
 {: .no_toc }
 
 GitHub is a very popular version control platform. One of the fundamental principles of data science is that code and results should be reproducible either by yourself at a future point in time or by others. Version control provides a mechanism to track and record changes to you work online.
+{: .fs-4 .fw-300 }
 
 We are going to give a brief intorduction of how to use GitHub and Git to perform the most common operations and to join our GitHub organization. For more information, see "[GitHub Docs](https://docs.github.com/en){:target="\_blank"}".
+{: .fs-4 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -23,18 +26,23 @@ We are going to give a brief intorduction of how to use GitHub and Git to perfor
 ## Dependencies
 
 At the heart of GitHub is an open-source version control system (VCS) called Git. Git is responsible for everything GitHub-related that happens locally on your computer. Tou can download [Git](https://git-scm.com/downloads){:target="\_blank"} based on your OS type.
+{: .fs-4 .fw-300 }
 
 If you want to work with Git locally, we will highly recommend downloading and installing the [GitHub Desktop](https://desktop.github.com/){:target="\_blank"} client. For more information, see "[Installing and configuring GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop){:target="\_blank"}".
+{: .fs-4 .fw-300 }
 
 If you want to work in production with all your codes and files, we will highly recommend downloading and installing the [Visual Studio Code](https://code.visualstudio.com/){:target="\_blank"} as your main IDE. For more information, see "[Setting up Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview){:target="\_blank"}".
+{: .fs-4 .fw-300 }
 
 ---
 
 ## Create an account
 
 After you have installed GitHub Desktop, you can authenticate the application with your account on GitHub. Authenticating allows you to connect remote repositories on GitHub.
+{: .fs-4 .fw-300 }
 
 Before you can authenticate to GitHub, you will need an account. You can follow the below steps. For more information about creating an account, see "[Signing up for a new GitHub account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account){:target="\_blank"}".
+{: .fs-4 .fw-300 }
 
 > - If you want to create a new personal account, make sure you are currently signed out of GitHub.
 {: .fs-3 }
@@ -52,12 +60,14 @@ Before you can authenticate to GitHub, you will need an account. You can follow 
 {: .fs-3 }
 
 Congratulations! You've successfully created your GitHub account.
+{: .fs-4 .fw-300 }
 
 ---
 
 ## Set up account
 
 After you sign up your GitHub account, you can now log in to your main GitHub page. You will need to do some extra settings to join our organization.
+{: .fs-4 .fw-300 }
 
 > - Click your default profile photo in the upper-right conner of you page and then click <span class="text-purple-100">Your Profile</span> from the dropdown list.
 {: .fs-3 }
@@ -73,14 +83,17 @@ After you sign up your GitHub account, you can now log in to your main GitHub pa
 {: .fs-3 }
 
 Congratulations! You've successfully set up your GitHub account.
+{: .fs-4 .fw-300 }
 
 ---
 
 ## Create a repository
 
 You can store a variety of projects in GitHub repositories, including open source projects and private projects. You can use repositories to collaborate with others and track your work. 
+{: .fs-4 .fw-300 }
 
 We recommend creating your repository online first and then clone it to your local to edit and commit.
+{: .fs-4 .fw-300 }
 
 > - In the main GitHub dashboard or your upper-right corner of any page, you will find a button to generate <span class="text-purple-100">New repository</span>.
 {: .fs-3 }
@@ -96,12 +109,14 @@ We recommend creating your repository online first and then clone it to your loc
 {: .fs-3 }
 
 Congratulations! You've successfully created your first repository, and initialized it with a *README* file.
+{: .fs-4 .fw-300 }
 
 ---
 
 ## Use GitHub Desktop
 
 After you have installed GitHub Desktop, you can authenticate the application with your account on GitHub. Authenticating allows you to connect to remote repositories on GitHub.
+{: .fs-4 .fw-300 }
 
 > - In the GitHub Desktop drop-down menu, click <span class="text-purple-100">Preferences</span>. In the preferences window, click <span class="text-purple-100">Accounts</span> and follow the steps to sign in.
 {: .fs-3 }
@@ -109,6 +124,7 @@ After you have installed GitHub Desktop, you can authenticate the application wi
 {: .fs-3 }
 
 Now you are ready to start using GitHub Desktop.
+{: .fs-4 .fw-300 }
 
 > - You can create a new repository by selecting the <span class="text-purple-100">File</span>) menu and clicking <span class="text-purple-100">New Repository</span>. For more information, see "[Creating your first repository using GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop){:target="\_blank"}".
 {: .fs-3 }
@@ -118,6 +134,7 @@ Now you are ready to start using GitHub Desktop.
 {: .fs-3 }
 
 Now you have learn some general use cases about GitHub and Github Desktop. Let's use a step-by-step example to learn how it fits to you day-to-day work.
+{: .fs-4 .fw-300 }
 
 > - You can create a folder named "<span class="text-purple-100">GitHub</span>" in your local drive.
 {: .fs-3 }
@@ -139,3 +156,26 @@ Now you have learn some general use cases about GitHub and Github Desktop. Let's
 {: .fs-3 }
 > - After the commit, you will now see a <span class="text-purple-100">Push origin</span> button. Click that and go back to your <span class="text-purple-100">GitHub repository page</span> to check, your change should have been updated there.
 {: .fs-3 }
+
+Congratulations! You've successfully comitted and pushed your first repository from local to remote.
+{: .fs-4 .fw-300 }
+
+---
+
+## Collaborate with GitHub Desktop
+
+You can use GitHub Desktop to create issues or pull requests to collaborate on projects with other people. Issues help you keep track of ideas and discuss possible changes to projects. Pull requests let you share your proposed changes with others, reveive feedback, and merge changes into a project. For more information, see "[Creating an issue or pull request](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request){:target="\_blank"}".
+{: .fs-4 .fw-300 }
+
+You can view your own or your collaborator's pull requests in GitHub Desktop. Viewing a pull request in GitHub Desktop lets you see any proposed changes and make additional changes by opening the project's files and repositories in your default text editor. For more information, see "[Viewing a pull request in GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/viewing-a-pull-request-in-github-desktop){:target="\_blank"".
+{: .fs-4 .fw-300 }
+
+When you make changes to your local repositories or when other people make changes to the remote repositories, you will need to sync your local copy of the project with the remote repository. GitHub Desktop can keep your local copy of a project in sync with the remote version by pushing and pulling commits. For more information, see "[Syncing your branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch){:target="\_blank"}".
+{: .fs-4 .fw-300 }
+
+---
+
+## Further reading
+
+> - [GitHub Docs](https://docs.github.com/en){:target="\_blank"}
+{: .fs-4 .fw-300 }
