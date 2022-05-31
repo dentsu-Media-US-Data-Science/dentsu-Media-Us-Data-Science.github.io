@@ -22,7 +22,7 @@ title: Reach
 email: neal.xie@dentsu.com
 description: A organization website for dentsu Media US Data Science team.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dentsu-media-us-data-science.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dentsu-media-us-data-science.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
