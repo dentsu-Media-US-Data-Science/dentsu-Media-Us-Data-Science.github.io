@@ -2,7 +2,6 @@
 layout: page
 title: About
 nav_order: 4
-permalink: /about/
 ---
 
 # Reach: About

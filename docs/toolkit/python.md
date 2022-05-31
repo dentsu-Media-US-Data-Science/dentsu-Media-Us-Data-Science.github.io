@@ -3,7 +3,6 @@ layout: default
 title: Python
 parent: Toolkit
 nav_order: 3
-permalink: /toolkit/python/
 ---
 
 # Reach: Python

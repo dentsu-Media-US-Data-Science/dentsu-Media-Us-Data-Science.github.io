@@ -4,7 +4,6 @@ title: Scenario Planner
 parent: Core
 grand_parent: Solution
 nav_order: 3
-permalink: /solution/core/scenario-planner/
 ---
 
 # Reach: Scenario Planner

@@ -3,7 +3,6 @@ layout: default
 title: Solution
 nav_order: 3
 has_children: true
-permalink: /solution
 ---
 
 # Reach: Solution

@@ -3,7 +3,6 @@ layout: default
 title: Toolkit
 nav_order: 2
 has_children: true
-permalink: /toolkit
 ---
 
 # Reach: Toolkit

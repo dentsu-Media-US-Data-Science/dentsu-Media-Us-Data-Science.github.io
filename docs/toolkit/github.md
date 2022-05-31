@@ -3,7 +3,6 @@ layout: default
 title: GitHub
 parent: Toolkit
 nav_order: 1
-permalink: /toolkit/github/
 ---
 
 # Reach: GitHub
